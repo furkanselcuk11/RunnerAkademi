@@ -3,7 +3,12 @@ guid: 06df37d61e1393b4896f73fcb10448bd
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bitcoin1
+    second: {fileID: 2100000, guid: 9c471d40de2ef05498b5e653077eca1e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
